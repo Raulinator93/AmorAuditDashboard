@@ -1,0 +1,12 @@
+D:\Diplomarbeit\Programmieren\Armorauditdash\BlazorDashboardApp\Shared\bin\Debug\net5.0\BlazorDashboardApp.Shared.deps.json
+D:\Diplomarbeit\Programmieren\Armorauditdash\BlazorDashboardApp\Shared\bin\Debug\net5.0\BlazorDashboardApp.Shared.dll
+D:\Diplomarbeit\Programmieren\Armorauditdash\BlazorDashboardApp\Shared\bin\Debug\net5.0\ref\BlazorDashboardApp.Shared.dll
+D:\Diplomarbeit\Programmieren\Armorauditdash\BlazorDashboardApp\Shared\bin\Debug\net5.0\BlazorDashboardApp.Shared.pdb
+D:\Diplomarbeit\Programmieren\Armorauditdash\BlazorDashboardApp\Shared\obj\Debug\net5.0\BlazorDashboardApp.Shared.csproj.AssemblyReference.cache
+D:\Diplomarbeit\Programmieren\Armorauditdash\BlazorDashboardApp\Shared\obj\Debug\net5.0\BlazorDashboardApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diplomarbeit\Programmieren\Armorauditdash\BlazorDashboardApp\Shared\obj\Debug\net5.0\BlazorDashboardApp.Shared.AssemblyInfoInputs.cache
+D:\Diplomarbeit\Programmieren\Armorauditdash\BlazorDashboardApp\Shared\obj\Debug\net5.0\BlazorDashboardApp.Shared.AssemblyInfo.cs
+D:\Diplomarbeit\Programmieren\Armorauditdash\BlazorDashboardApp\Shared\obj\Debug\net5.0\BlazorDashboardApp.Shared.csproj.CoreCompileInputs.cache
+D:\Diplomarbeit\Programmieren\Armorauditdash\BlazorDashboardApp\Shared\obj\Debug\net5.0\BlazorDashboardApp.Shared.dll
+D:\Diplomarbeit\Programmieren\Armorauditdash\BlazorDashboardApp\Shared\obj\Debug\net5.0\ref\BlazorDashboardApp.Shared.dll
+D:\Diplomarbeit\Programmieren\Armorauditdash\BlazorDashboardApp\Shared\obj\Debug\net5.0\BlazorDashboardApp.Shared.pdb
